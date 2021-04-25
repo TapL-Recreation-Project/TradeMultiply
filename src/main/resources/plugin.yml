@@ -1,0 +1,5 @@
+name: TradeMultiply
+version: ${project.version}
+main: me.swipez.trademultiply.TradeMultiply
+api-version: 1.16
+authors: [ notnotnotswipez ]
